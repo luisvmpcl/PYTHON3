@@ -6,6 +6,6 @@ aqui el comentario en bloque
 
 # asignacion multiple , e impresion multiple
 
-nombre , nacionalidad , codigo_postal = 'Luis' , 'Peruano', 51
+nombre , nacionalidad , codigo_postal = 'Ventocilla' , 'Peruano', 51
 
 print(nombre, nacionalidad, codigo_postal)

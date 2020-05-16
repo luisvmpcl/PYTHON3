@@ -38,4 +38,5 @@ def sumar(numero, numero2): # es opcional los parametros
 for i in range(4):  # si queremos que se repita 4 veces 
     numero = int(input('Ingrese primer numero para la suma:'))
     numero2 = int(input('Ingrese segundo numero para la suma:'))
-    print('El resultado de sumar los numeros ingresados es: '+str(sumar (numero, numero2))) # str  tenemos que castearlo 
+    print('El resultado de sumar los numeros ingresados es: '+str(sumar (numero, numero2)))
+     # str  tenemos que castearlo 

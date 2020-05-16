@@ -7,5 +7,6 @@ segunda_variable = True
 primera_variable = 'Este es el texto cambiado o el nuevo valor de esta variable'
 
 print(primera_variable) 
+print(segunda_variable)
 
 
