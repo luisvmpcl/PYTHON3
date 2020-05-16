@@ -6,7 +6,7 @@ lo importante es identar
 
 En el terminal del visual studio codigo tambien podemos ejecutarlo
 
-ejemplo: python luisvmpcl.py
+ejemplo: python luisventocilla.py
 
 para abrir y cerrar la terminal de visual studio code
 Ctrl + ñ
