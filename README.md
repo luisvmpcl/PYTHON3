@@ -13,8 +13,4 @@ Ctrl + ñ
 
 ctrl + b para cerrar el panel izquierdo
 
-#####################################################################
-Completado los 28 ejercicios
-#####################################################################
 
-"HAZ EL BIEN SIN MIRAR A QUIEN , TODO ES RELATIVO"
