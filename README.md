@@ -14,3 +14,13 @@ Ctrl + ñ
 ctrl + b para cerrar el panel izquierdo
 
 
+############################################################
+
+
+
+HAS EL BIEN SIN MIRAR A QUIEN , TODO ES RELATIVO
+
+
+############################################################
+
+
